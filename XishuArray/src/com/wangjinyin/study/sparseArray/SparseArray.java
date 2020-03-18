@@ -1,4 +1,4 @@
-package com.wangjinyin.study;
+package com.wangjinyin.study.sparseArray;
 
 /**
  * @author jinyin wang
